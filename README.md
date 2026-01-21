@@ -1,6 +1,4 @@
-# README.md 
 # 📱 Guía de Uso de WhatsApp
-
 ## 📸 Cómo enviar fotos
 Para compartir imágenes, sigue estos pasos:
 
