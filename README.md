@@ -1,4 +1,4 @@
-# READNE.md 
+# README.md 
 # 📱 Guía de Uso de WhatsApp
 
 ## 📸 Cómo enviar fotos
