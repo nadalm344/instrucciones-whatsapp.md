@@ -1,4 +1,4 @@
-# 📱 Guía de Uso de WhatsApp
+* [📱 Manual de uso: WhatsApp](https://github.com/nadalm344/instrucciones-whatsapp.md)
 ## 📸 Cómo enviar fotos
 Para compartir imágenes, sigue estos pasos:
 
