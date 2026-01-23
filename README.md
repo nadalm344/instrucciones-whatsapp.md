@@ -7,4 +7,4 @@ Para compartir imágenes, sigue estos pasos:
 2. Selecciona **Galería**.
 3. Elige tu foto y presiona el botón **Verde de Enviar**.
 
-> **Tip:** Asegúrate de tener conexión a internet.
+> **Tip:** Asegúrate de tener conexión estable a internet.
